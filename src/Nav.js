@@ -22,7 +22,7 @@ const Nav = () => {
       <div className="nav_contents">
         <img
           className="nav_logo"
-          src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png"
+          src="https://fontmeme.com/permalink/210424/a1838eceebd4c65e2f62c6bb6becab66.png"
           alt=""
         />
 
