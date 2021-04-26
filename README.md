@@ -1,6 +1,6 @@
 # Nateflix
 
- ## [View NATEFLIX](https://nateflix-build.web.app/)
+ ## [View NATEFLIX deployment](https://nateflix-build.web.app/)
 
 This project was created as a skill building exercise. Nateflix is meant to look and feel like Netflix.
 
